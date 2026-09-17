@@ -6,4 +6,10 @@ substraction =a-b
 
 print("Addition=",addition)
 print("Substraction=",substraction)
+
+multiplication =a*b
+division =a/b
+
+print("Multiplication=",multiplication)
+print("Division=",division)
       
