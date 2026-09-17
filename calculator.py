@@ -5,5 +5,5 @@ addition =a+b
 substraction =a-b
 
 print("Addition=",addition)
-print("Substraction=",substraction
+print("Substraction=",substraction)
       
